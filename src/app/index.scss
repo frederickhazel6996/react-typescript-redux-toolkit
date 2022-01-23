@@ -1,0 +1,13 @@
+@import '../_scss/base.scss';
+.todobox {
+    height: 800px;
+    width: 100%;
+    border: 5px $secondary-color solid;
+    overflow-y: scroll;
+}
+
+.todo__container {
+    text-align: center;
+    border: 1px $primary-color solid;
+    padding: 10px;
+}

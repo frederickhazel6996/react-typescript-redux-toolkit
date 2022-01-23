@@ -1,0 +1,9 @@
+{
+    "todos": [
+        { "id": 1, "todo": "wash clothes", "time": "12:30", "completed": false },
+        { "id": 2, "todo": "Write Code", "time": "12:30", "completed": true },
+        { "id": 3, "todo": "Fuck", "time": "12:30", "completed": false },
+        { "id": 4, "todo": "Watch BBN", "time": "12:30", "completed": true },
+        { "id": 5, "todo": "Stake bet", "time": "12:30", "completed": false }
+    ]
+}
